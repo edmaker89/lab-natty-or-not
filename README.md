@@ -14,7 +14,7 @@ O projeto consiste em uma música inspirada na mitologia do World of Warcraft: W
 O processo de criação envolveu a geração da música, letra, imagens e vídeos utilizando as ferramentas mencionadas acima. Cada etapa foi cuidadosamente planejada e executada para alcançar o resultado desejado.
 
 ## 🚀 Resultados
-O resultado final foi um videoclipe de 36 segundos, contendo um trecho da música (pré-refrão e refrão). O resultado foi satisfatório, porém acredito que com mais prática e acesso a recursos premium, seriam possíveis criações artísticas incríveis que desafiariam a percepção de terem sido geradas por IA.
+O resultado final foi um videoclipe de 33 segundos, contendo um trecho da música (pré-refrão e refrão). O resultado foi satisfatório, porém acredito que com mais prática e acesso a recursos premium, seriam possíveis criações artísticas incríveis que desafiariam a percepção de terem sido geradas por IA. A musica original teve 3:37 minutos.
 [Shadowns Unveiled.mp4](short%20Shadowns%20Unveiled.mp4)
 
 ## 💭 Reflexão (Opcional)
