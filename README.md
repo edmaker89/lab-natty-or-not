@@ -15,6 +15,7 @@ O processo de criação envolveu a geração da música, letra, imagens e vídeo
 
 ## 🚀 Resultados
 O resultado final foi um videoclipe de 36 segundos, contendo um trecho da música (pré-refrão e refrão). O resultado foi satisfatório, porém acredito que com mais prática e acesso a recursos premium, seriam possíveis criações artísticas incríveis que desafiariam a percepção de terem sido geradas por IA.
+[Shadowns Unveiled.mp4](/short%20Shadowns%20Unveiled.mp4)
 
 ## 💭 Reflexão (Opcional)
 A música ficou tão bem produzida que é difícil distinguir se é natural ou se foi gerada artificialmente. Isso levanta questões interessantes sobre a capacidade das IA generativas em produzir conteúdo de alta qualidade.
